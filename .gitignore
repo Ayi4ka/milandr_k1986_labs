@@ -1,0 +1,16 @@
+
+*.o
+*.elf
+*.map
+*.lst
+*.dep
+*.uvopt*
+*.uvproj*
+*.crf
+*.htm
+*.tra
+*.bak
+*.plg
+build/
+Debug/
+Release/
